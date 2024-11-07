@@ -1,2 +1,3 @@
 # 演示
-<img srfc="'./yanshi.gif">
+![演示](.\yanshi.gif)
+<img src=".\yanshi.gif">
