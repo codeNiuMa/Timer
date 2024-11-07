@@ -104,5 +104,5 @@ if __name__ == "__main__":
 
 
 # @echo off
-# D:\Python\python.exe D:/Code/PythonCode/newlearnProject/littletools/timer.py
+# D:\Miniconda\envs\play\python.exe D:\Code\PythonCode\newlearnProject\littletools\timer.py
 # exit
